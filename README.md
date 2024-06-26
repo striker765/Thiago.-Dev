@@ -1,9 +1,14 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BB04&background=1611FF00&center=true&random=false&width=542&lines=%5BBack%3DEnd%3DDeveloper%5D)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-<div style="width: 200px;">
-<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=striker765&langs_count=8" alt="Top Langs" />
+
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
-</div>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
